@@ -1,4 +1,4 @@
-package Questions.string;
+package DataStructures.String;
 
 import java.util.Scanner;
 

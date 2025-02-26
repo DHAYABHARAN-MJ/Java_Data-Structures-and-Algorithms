@@ -1,4 +1,4 @@
-package Questions.array;
+package DataStructures.Array;
 /* Question: Given an array at size of num which consist of only 3 and 4 , the task is to find number possible conditions,
 the conditions are if arr[i]==3 and arr[i+1]==4 then swap the element. The another condition if you already swapped in that index you should again swap that index.
 Test case 1:
