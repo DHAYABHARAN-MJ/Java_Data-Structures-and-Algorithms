@@ -22,6 +22,9 @@ class solutions{
         else{
             sb.append(" is imaginary and negative roots");
         }
-        return "Discriminant:  "+ ans + sb.toString();
+        String s = "Discriminant:";
+        s = s+ans;
+        s = s + sb.toString();
+        return s;
     }
 }
