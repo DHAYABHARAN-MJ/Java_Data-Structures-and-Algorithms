@@ -1,3 +1,3 @@
 /*
-Sample text.
+Sample text:merge sort
  */
