@@ -1,3 +1,7 @@
+/*
+Merge Sort code
+Divide and Conquer
+*/
 package Algorithms.Sorting;
 
 import java.util.*;
