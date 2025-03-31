@@ -1,3 +1,4 @@
+//Binary Search
 package Algorithms.Searching;
 
 import java.util.*;
